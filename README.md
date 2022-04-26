@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Ryan - aka Leps.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/></h1>
 
-I'm Ryan.<br><br><br><br>
+I am a Full-stack web developer, I'm a freelance programmer and highly enthusiastic about my work and committed to it. I have obtained the knowledge, skills, and abilities to ensure the success of your project.<br><br><br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ryan+Christian%2C+22+years+old;I'm+a+Full-stack+Web+Developer;I+aspire+to+be+an+IT+Professor;I+solve+Problems.)](https://git.io/typing-svg)
 
 ### Connect with me: 
