@@ -4,7 +4,7 @@ I'm Ryan.<br><br><br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ryan+Christian%2C+22+years+old;I'm+a+Full-stack+Web+Developer;I+aspire+to+be+an+IT+Professor;I+solve+Problems.)](https://git.io/typing-svg)
 
 ### Connect with me: 
-<a href="mailto: rylepio79@gmail.com">
+<a href="mailto: rylepio79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="mailto: rylepio79@gmail.com">
 <img src="https://img.shields.io/badge/-rylepio79@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
