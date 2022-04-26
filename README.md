@@ -23,7 +23,7 @@ I am a **Full-stack web developer**, I'm a **Freelance programmer** and highly e
 ### GitHub Highlights: 🔥
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianlepio&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
 
-![Christianlepio's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianlepio&theme=midnight-purple&show_icons=true&hide_border=true&hide=pes,contribs)
+![Christianlepio's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianlepio&theme=midnight-purple&show_icons=true&hide_border=true&hide=prs,contribs)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianlepio&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 
