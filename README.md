@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Ryan - aka Leps.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/></h1>
 
-I am a Full-stack web developer, I'm a freelance programmer and highly enthusiastic about my work and committed to it. I have obtained the knowledge, skills, and abilities to ensure the success of your project.<br><br>
+I am a ** Full-stack web developer **, I'm a freelance programmer and highly enthusiastic about my work and committed to it. I have obtained the knowledge, skills, and abilities to ensure the success of your project.<br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ryan+Christian%2C+22+years+old;I'm+a+Full-stack+Web+Developer;I+aspire+to+be+an+IT+Professor;I+solve+Problems.)](https://git.io/typing-svg)
 
 ### Connect with me: 
@@ -8,7 +8,8 @@ I am a Full-stack web developer, I'm a freelance programmer and highly enthusias
 
 ### Current Status:
 
-- 💼 Full-Stack <strong>Web Developer</strong>.
+- 💼 Full-Stack ** Web Developer **.
+- 🌱 I’m currently learning laravel and reactjs
 - 🔍 I’m looking for connections in <strong>Web Development and IT</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
 - 👀 See my [Personal Portfolio](https://christianlepio.github.io/prtflio/) to get more info
@@ -42,7 +43,7 @@ Last Edited on: 04/26/2022
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
