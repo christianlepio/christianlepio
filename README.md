@@ -22,6 +22,8 @@ I'm Ryan.<br><br><br><br>
 <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianlepio&theme=blue-green">
 
+  [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christianlepio&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Github Activity: 🔥 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=christianlepio&theme=dracula&color=B994E6&bg_color=2B2D3D" />
