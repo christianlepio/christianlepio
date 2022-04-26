@@ -31,7 +31,7 @@ I'm Ryan.<br><br><br><br>
 
 
 -----
-Credits: [carlcastanas](https://github.com/christianlepio)
+Credits: [christianlepio](https://github.com/christianlepio)
 
 Last Edited on: 04/26/2022
 
