@@ -29,5 +29,5 @@ Number of Visitors:<br>
 ![Visitor Count](https://profile-counter.glitch.me/{christianlepio}/count.svg)
 
 
-Credits: [christianlepio](https://github.com/christianlepio)<br>
-Last Edited on: 04/26/2022
+Last Edited on: 04/26/2022<br>
+Credits: [christianlepio](https://github.com/christianlepio)
