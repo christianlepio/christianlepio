@@ -6,12 +6,12 @@ I'm Ryan.<br><br><br><br>
 ### Connect with me: 
 <a href="mailto:rylepio79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.instagram.com/l_e_p_i_o/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.facebook.com/ryanchristyan.lepio"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://www.linkedin.com/in/ryan-christian-lepio-b74885234/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a  href="https://twitter.com/christianlepio"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-### Current Status Quo:
+### Current Status:
 
-- 💼 Full-Stack <strong>React.js/ Node.js Developer</strong>.
-- 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
+- 💼 Full-Stack <strong>Web Developer</strong>.
+- 🔍 I’m looking for connections in <strong>Web Development and IT</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
-- 👀 See my [Personal Portfolio](https://carlcastanas.github.io/portfolio/) to get more info
+- 👀 See my [Personal Portfolio](https://christianlepio.github.io/prtflio/) to get more info
 
 ### Languages and tools : 🛠
 
