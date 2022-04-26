@@ -28,7 +28,7 @@ I am a **Full-stack web developer**, I'm a **Freelance programmer** and highly e
 
 -----
 Number of Visitors:<br>
-![Visitor Count](https://github.com/christianlepio)
+![Visitor Count](https://profile-counter.glitch.me/{christianlepio}/count.svg)
 
 
 Last Edited on: 04/26/2022<br>
