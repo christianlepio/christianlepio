@@ -1,6 +1,4 @@
-Hi there, I'm Ryan - aka [christianlepio][youtube] 👋 
-
-
+# Hi there, I'm Ryan - aka [christianlepio][youtube] 👋 
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
