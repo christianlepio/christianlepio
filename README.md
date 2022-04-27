@@ -8,7 +8,7 @@ I am a **Full-stack web developer**, I'm a **Freelance programmer** and highly e
 
 ### Current Status:
 
-- 💼 Full-Stack Web Developer.
+- 💼 **Full-Stack Web Developer.
 - 🌱 I’m currently **learning Laravel** and **Reactjs.**
 - 🔍 I’m looking for connections in **Web Development** and **IT Industry**.
 - 👯 I’m also looking to collaborate with other **Content creators** / **Programmers**.
