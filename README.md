@@ -11,7 +11,7 @@ I am a **Full-stack web developer**, I'm a **Freelance programmer** and highly e
 - 💼 Full-Stack Web Developer.
 - 🌱 I’m currently **learning Laravel** and **Reactjs.**
 - 🔍 I’m looking for connections in **Web Development** and **IT Industry**.
-- 👯 I’m also looking to collaborate with other **Content creators** / Programmers.
+- 👯 I’m also looking to collaborate with other **Content creators** / **Programmers.
 - 🥅 2022 Goals: Learn more about **Laravel** and **Reactjs.**
 - ⚡ Fun fact: I love to draw and play guitar.
 - 👀 See my [Personal Portfolio](https://christianlepio.github.io/prtflio/) to get more info
