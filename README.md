@@ -31,7 +31,7 @@ I am a **Full-stack web developer**, I'm a **Freelance programmer** and highly e
 [![Christianlepio's github activity graph](https://activity-graph.herokuapp.com/graph?username=christianlepio&theme=react-dark)](https://github.com/christianlepio)
 
 -----
-Number of Visitors:<br>
+:eyes: Number of Visitors:<br>
 ![Visitor Count](https://profile-counter.glitch.me/{christianlepio}/count.svg)
 
 
