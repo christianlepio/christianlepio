@@ -6,7 +6,7 @@ I am a **Full-stack web developer**, I'm a **Freelance programmer** and highly e
 ### Connect with me: 
 <a href="mailto:rylepio79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/ryan-christian-lepio-b74885234/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://www.instagram.com/l_e_p_i_o/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.facebook.com/ryanchristyan.lepio"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a  href="https://twitter.com/christianlepio"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a  href="https://github.com/christianlepio"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
-### Current Status:
+### :nerd_face: Current Status:
 
 - 💼 **Full-Stack Web Developer**.
 - 🌱 I’m currently **learning Laravel** and **React JS.**
