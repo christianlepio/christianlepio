@@ -27,7 +27,7 @@ I am a **Full-stack web developer**, I'm a **Freelance programmer** and highly e
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianlepio&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 
-### GitHub Activity: :chart_with_upwards_trend:
+### GitHub Activity: :chart:
 [![Christianlepio's github activity graph](https://activity-graph.herokuapp.com/graph?username=christianlepio&theme=react-dark)](https://github.com/christianlepio)
 
 -----
