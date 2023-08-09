@@ -2,6 +2,15 @@
 <h3 align="center">A passionate Backend Developer from the Philippines</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlepio&label=Profile%20views&color=0e75b6&style=flat" alt="christianlepio" /> </p>
 
+<h3 align="left">Current Status:</h3>
+- 💼 **Freelance Web Developer (Full-Stack)**.
+- 🌱 I’m currently **learning Laravel** and **React JS.**
+- 🔍 I’m looking for connections in **Web Development** and **IT Industry**.
+- 👯 I’m also looking to collaborate with other **Content creators** / **Programmers**.
+- 🥅 2022 Goals: Learn more about **Laravel** and **React JS.**
+- ⚡ Fun fact: I love to draw, sing, and play guitar.
+- 👀 See my **:link:[WEB PORTFOLIO](https://christianlepio.github.io/prtflio/)** to get more info...
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:rylepio79@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="mailto:rylepio79@gmail.com" height="30" width="40" /></a>
