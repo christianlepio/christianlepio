@@ -19,3 +19,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianlepio&show_icons=true&locale=en" alt="christianlepio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianlepio&" alt="christianlepio" /></p>
+
+-----
+###
+
+<img src="https://raw.githubusercontent.com/christianlepio/christianlepio/output/snake.svg" alt="Snake animation" />
+
+###
