@@ -1,26 +1,24 @@
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
+<h1 align="center">Hey Everyone 👋, I'm Ryan Christian Lepio</h1>
+<h3 align="center">A passionate Backend Developer From Philippines. I am highly enthusiastic about my work and committed to it. I have obtained the knowledge, skills, and abilities to ensure the success of your project.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlepio&label=Profile%20views&color=0e75b6&style=flat" alt="christianlepio" /> </p>
 
-- 🔭 I’m currently working on [30-Days-Of-DevOps](https://github.com/jaiswaladi246/30-Days-Of-DevOps)
+### :nerd_face: Current Status:
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
-
-- 💬 Ask me about **DevOps & Cloud DevOps**
-
-- 📫 How to reach me **masteraadi246@gmail.com**
-
+- 💼 **Freelance Web Developer (Full-Stack)**.
+- 🌱 I’m currently **learning Laravel** and **React JS.**
+- 🔍 I’m looking for connections in **Web Development** and **IT Industry**.
+- 👯 I’m also looking to collaborate with other **Content creators** / **Programmers**.
+- 🥅 2022 Goals: Learn more about **Laravel** and **React JS.**
+- ⚡ Fun fact: I love to draw, sing, and play guitar.
+- 👀 See my **:link:[WEB PORTFOLIO](https://christianlepio.github.io/prtflio/)** to get more info...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-<a href="https://instagram.com/m_aditya_jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ryan-christian-lepio-b74885234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryan-christian-lepio-b74885234/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/l_e_p_i_o/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/l_e_p_i_o/?hl=en" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a> -->
   
 </p>
 
