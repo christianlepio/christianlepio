@@ -10,7 +10,6 @@
 - 💼 Worked as a **Freelance Web Developer (Full-Stack).**
 - 🌱 I’m currently learning **MERN Stack.**
 - 🔍 I’m looking for connections in **Web Development** and **IT Industry**.
-- 👯 I’m also looking to collaborate with other **Content creators** / **Programmers**.
 - 🥅 2023 Goals: Learn more about **MERN Stack.**
 - 👀 All my projects are available @**:link:[WEB PORTFOLIO](https://christianlepio.github.io/prtflio/)**...
 
