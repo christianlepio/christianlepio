@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ryan Christian</h1>
-<h3 align="center">A passionate Backend Developer from the Philippines</h3>
+<h1 align="center">Hi, I'm Ryan Christian<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="50" height="50" /></h1>
+<h3 align="center">A passionate Software Developer from the Philippines</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlepio&label=Profile%20views&color=0e75b6&style=flat" alt="christianlepio" /> </p>
 
 <h3 align="left">Current Status:</h3>
 
-- 💼 **Freelance Web Developer (Full-Stack)**.
-- 🌱 I’m currently **learning Laravel** and **React JS.**
+- 💼 I'm currently working as a **SAP ABAP Developer.**
+- 💼 Worked as a **Freelance Web Developer (Full-Stack).**
+- 🌱 I’m currently learning **MERN Stack.**
 - 🔍 I’m looking for connections in **Web Development** and **IT Industry**.
 - 👯 I’m also looking to collaborate with other **Content creators** / **Programmers**.
-- 🥅 2022 Goals: Learn more about **Laravel** and **React JS.**
-- ⚡ Fun fact: I love to draw, sing, and play guitar.
-- 👀 See my **:link:[WEB PORTFOLIO](https://christianlepio.github.io/prtflio/)** to get more info...
+- 🥅 2023 Goals: Learn more about **MERN Stack.**
+- 👀 All my projects are available @**:link:[WEB PORTFOLIO](https://christianlepio.github.io/prtflio/)**...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
