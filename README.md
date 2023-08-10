@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlepio&label=Profile%20views&color=0e75b6&style=flat" alt="christianlepio" /> </p>
 
-<h3 align="left">Current Status:</h3>
-
 - 💼 I'm currently working as a **SAP ABAP Developer.**
 - 💼 Worked as a **Freelance Web Developer (Full-Stack).**
 - 🌱 I’m currently learning **MERN Stack.**
