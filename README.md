@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ryan Christian<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="50" height="50" /></h1>
-<h3 align="center">A passionate Software Developer from the Philippines</h3>
+<h3 align="center">A passionate Software Developer that turns Coffee into Logic</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlepio&label=Profile%20views&color=0e75b6&style=flat" alt="christianlepio" /> </p></h3>
