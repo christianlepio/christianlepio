@@ -24,6 +24,4 @@
 
 <h3 align="left">GitHub Highlights:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianlepio&show_icons=true&locale=en" alt="christianlepio" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianlepio&" alt="christianlepio" /></p>
