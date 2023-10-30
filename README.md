@@ -4,12 +4,14 @@
 
 <h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlepio&label=Profile%20views&color=0e75b6&style=flat" alt="christianlepio" /> </p></h3>
 
-- 💼 I'm currently working as a **SAP ABAP Developer.**
+<h2 align="left">About Me</h2>
+
+- 💼 Currently working as a **SAP ABAP Developer.**
 - 💼 Worked as a **Freelance Web Developer (Full-Stack).**
 - 🌱 I’m currently learning **MERN Stack.**
-- 🔍 I’m looking for connections in **Web Development** and **IT Industry**.
+- 🔍 Looking for connections in **Web Development** and **IT Industry**.
 - 🥅 2023 Goals: Learn more about **MERN Stack.**
-- 👀 All my projects are available @**:link:[WEB PORTFOLIO](https://christianlepio.github.io/prtflio/)**...
+- 👀 All my projects are available in my **[WEB PORTFOLIO](https://christianlepio.github.io/prtflio/)**
 
 <h2 align="left">Connect with Me</h2>
 <div align="left">
