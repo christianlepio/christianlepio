@@ -11,7 +11,7 @@
 - 🥅 2023 Goals: Learn more about **MERN Stack.**
 - 👀 All my projects are available @**:link:[WEB PORTFOLIO](https://christianlepio.github.io/prtflio/)**...
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with Me</h2>
 <div align="left">
   <a href="mailto:rylepio79@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="5" />
@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
-<h3 align="left">GitHub Highlights:</h3>
+<h2 align="left">GitHub Highlights</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=christianlepio&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=25&order=3" height="190" alt="streak graph"  />
 </div>
