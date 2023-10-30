@@ -12,12 +12,16 @@
 - 👀 All my projects are available @**:link:[WEB PORTFOLIO](https://christianlepio.github.io/prtflio/)**...
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:rylepio79@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="mailto:rylepio79@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ryan-christian-lepio-b74885234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-christian-lepio-b74885234" height="30" width="40" /></a>
-<a href="https://fb.com/ryanchristyan.lepio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ryanchristyan.lepio" height="30" width="40" /></a>
-<a href="https://instagram.com/l_e_p_i_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l_e_p_i_o" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="mailto:rylepio79@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://linkedin.com/in/ryan-christian-lepio-b74885234" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://fb.com/ryanchristyan.lepio" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+  <a href="https://instagram.com/l_e_p_i_o" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -57,8 +61,7 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
-###
-
 <h3 align="left">GitHub Highlights:</h3>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianlepio&" alt="christianlepio" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=christianlepio&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=25&order=3" height="190" alt="streak graph"  />
+</div>
