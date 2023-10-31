@@ -51,14 +51,14 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="5" />
   <img src="https://logodix.com/logo/80119.png" height="40" width="96" alt="SAP ABAP"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
