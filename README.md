@@ -41,6 +41,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
