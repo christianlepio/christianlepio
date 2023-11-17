@@ -67,5 +67,6 @@
 
 <h2 align="left">GitHub Highlights</h2>
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christianlepio&theme=blue_green" height="190" />
   <img src="https://streak-stats.demolab.com?user=christianlepio&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=25&order=3" height="190" alt="streak graph"  />
 </div>
