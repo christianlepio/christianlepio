@@ -43,6 +43,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="5" />
+  <img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo192.png" height="40" alt="zustand logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
