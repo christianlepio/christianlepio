@@ -1,4 +1,11 @@
 <h1 align="center">Hi, I'm Ryan<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="50" height="50" /></h1>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=50FF00&center=true&multiline=true&random=false&width=435&height=60&lines=A+Passionate+Software+Developer;that+turns+Coffee+into+Logic.)](https://git.io/typing-svg)
+
+</div>
+
 <h3 align="center">A passionate Software Developer that turns Coffee into Logic</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
