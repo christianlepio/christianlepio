@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **MERN Stack.**
 - 🔍 Looking for more connections in **IT Industry**.
 - 🥅 2023 Goals: Learn more about **MERN Stack.**
-- 👀 All my projects are available in my **[WEB PORTFOLIO](https://christianlepio.github.io/prtflio/)**.
+- 👀 All my projects are available in my **[WEB PORTFOLIO](https://christianlepio.github.io/reactjs-prtflio/)**.
 
 <h2 align="left">Connect with Me</h2>
 <div align="left">
