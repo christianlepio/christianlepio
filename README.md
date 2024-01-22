@@ -16,7 +16,7 @@
 - 💼 Worked as a **Freelance Web Developer (Full-Stack).**
 - 🌱 I’m currently learning **MERN Stack.**
 - 🔍 Looking for more connections in **IT Industry**.
-- 🥅 2023 Goals: Learn more about **MERN Stack.**
+- 🥅 2024 Goals: Learn more about **NextJS & Typescript**
 - 👀 All my projects are available in my **[WEB PORTFOLIO](https://christianlepio.github.io/reactjs-prtflio/)**.
 
 <h2 align="left">Connect with Me</h2>
