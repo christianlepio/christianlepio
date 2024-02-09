@@ -13,7 +13,7 @@
 <h2 align="left">About Me</h2>
 
 - 💼 Currently working as a **SAP ABAP Consultant.**
-- 💼 Worked as a **Freelance Web Developer (Full-Stack).**
+- 💼 Worked as a **Freelance Web/Mobile App Developer (Full-Stack).**
 - 🌱 I’m currently learning **MERN Stack.**
 - 🔍 Looking for more connections in **IT Industry**.
 - 🥅 2024 Goals: Learn more about **NextJS & Typescript.**
