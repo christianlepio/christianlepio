@@ -13,7 +13,6 @@
 <h2 align="left">About Me</h2>
 
 - 💼 Working as a **Software Engineer.**
-- 💼 Worked as a **Freelance Web/Mobile App Developer (Full-Stack).**
 - 💼 Worked as a **SAP ABAP Developer.**
 - 🌱 I’m currently learning **MERN Stack.**
 - 🔍 Looking for more connections in **IT Industry**.
