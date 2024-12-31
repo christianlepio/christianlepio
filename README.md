@@ -14,9 +14,7 @@
 
 - 💼 Working as a **Software Engineer.**
 - 💼 Worked as a **SAP ABAP Developer.**
-- 🌱 I’m currently learning **MERN Stack.**
 - 🔍 Looking for more connections in **IT Industry**.
-- 🥅 2024 Goals: Learn more about **NextJS & Typescript.**
 - 👀 All my projects are available in my **[WEB PORTFOLIO](https://christianlepio.github.io/reactjs-prtflio/)**.
 
 <h2 align="left">Connect with Me</h2>
