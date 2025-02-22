@@ -12,8 +12,8 @@
 
 <h2 align="left">About Me</h2>
 
-- 💼 Working as a **Software Engineer.**
-- 💼 Worked as a **SAP ABAP Developer.**
+- 💼 **Software Engineer.**
+- 💼 **SAP ABAP Developer.**
 - 🔍 Looking for more connections in **IT Industry**.
 - 👀 All my projects are available in my **[WEB PORTFOLIO](https://christianlepio.github.io/reactjs-prtflio/)**.
 
